@@ -1,0 +1,1 @@
+This is only a copy of the shaders used in Unity to build the asset bundles. They do not need to be built with the C# project
