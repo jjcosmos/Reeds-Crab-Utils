@@ -24,4 +24,4 @@ You will need to add a reference to your newly created dll for this to compile! 
 - Go through File -> Save Module and save over Assembly-CSharp.dll
 - Lastly, copy the asset bundles from the "PutThisUnderStreamingAssets" folder to AnotherCrabsTreasure_Data/SteamingAssets. Not the folder itself, just the contents. This contains the shaders for overlaying and rendering the collision.
 
-That should be it!
+That should be it! Toggle collision overlays with PgDn. It does break some UI effects, as I had to steal a layer to use for the collision camera.
