@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 3423885547
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d23e99838da04dc709acc33d2bdaf829
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 68c985bf88fecc38b460cdb825182138
+HashAppended: 0
+ClassTypes:
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Other/OverlayFade.shader
+- Assets/Other/Wireframe.shader
+- Assets/Other/CollisionShader.shader
+Dependencies: []
